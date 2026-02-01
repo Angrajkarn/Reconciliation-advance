@@ -31,23 +31,23 @@
 
 ### 1. Operations Control Room
 *Real-time command center for global reconciliation operations.*
-![Operations Control Room](assets/ops_control_room.png)
+![Operations Control Room]({037E7AD3-CFD5-46E7-8751-A3934729B77D}.png)
 
 ### 2. Transaction Workbench
 *High-performance grid for managing exceptions and breaks.*
-![Transaction Workbench](assets/transaction_workbench.png)
+![Transaction Workbench]({F4252A84-07DA-49E8-90DC-10D561366671}.png)
 
 ### 3. Deep-Dive Investigation
 *AI-assisted analysis of specific transaction breaks.*
-![Transaction Details](assets/transaction_details.png)
+![Transaction Details]({9C08C1FB-3CA9-41BD-98AA-87A0A9F66442}.png)
 
 ### 4. Admin Overview & System Bus
 *System-wide health monitoring, user sessions, and service status.*
-![Admin Dashboard](assets/admin_dashboard.png)
+![Admin Dashboard]({2940AD40-FD15-4BB1-A9D5-D8AE518DF713}.png)
 
 ### 5. Secure Identity Gateway
 *Resonant Guardian authentication layer.*
-![Login Screen](assets/login_screen.png)
+![Login Screen]({D97BF6A4-2BEA-454D-9C20-7F655235C8C7}.png)
 
 ---
 
