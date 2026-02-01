@@ -1,0 +1,16 @@
+txn_ref_id,source_system,exception_code,severity,description
+TXN-10080,BOTH,AMT_MISMATCH,MEDIUM,"Mismatch: Amt Diff 100.0, Date Diff 0"
+TXN-10081,BOTH,AMT_MISMATCH,MEDIUM,"Mismatch: Amt Diff 100.0, Date Diff 0"
+TXN-10082,BOTH,AMT_MISMATCH,MEDIUM,"Mismatch: Amt Diff 100.0, Date Diff 0"
+TXN-10083,BOTH,AMT_MISMATCH,MEDIUM,"Mismatch: Amt Diff 100.0, Date Diff 0"
+TXN-10084,BOTH,AMT_MISMATCH,MEDIUM,"Mismatch: Amt Diff 100.0, Date Diff 0"
+TXN-10095,SOURCE_A,MISSING_SRC_B,HIGH,Transaction missing in Payment Gateway (Source B)
+TXN-10096,SOURCE_A,MISSING_SRC_B,HIGH,Transaction missing in Payment Gateway (Source B)
+TXN-10097,SOURCE_A,MISSING_SRC_B,HIGH,Transaction missing in Payment Gateway (Source B)
+TXN-10098,SOURCE_A,MISSING_SRC_B,HIGH,Transaction missing in Payment Gateway (Source B)
+TXN-10099,SOURCE_A,MISSING_SRC_B,HIGH,Transaction missing in Payment Gateway (Source B)
+TXN-EXTRA-0,SOURCE_B,MISSING_SRC_A,HIGH,Transaction missing in Core Ledger (Source A)
+TXN-EXTRA-1,SOURCE_B,MISSING_SRC_A,HIGH,Transaction missing in Core Ledger (Source A)
+TXN-EXTRA-2,SOURCE_B,MISSING_SRC_A,HIGH,Transaction missing in Core Ledger (Source A)
+TXN-EXTRA-3,SOURCE_B,MISSING_SRC_A,HIGH,Transaction missing in Core Ledger (Source A)
+TXN-EXTRA-4,SOURCE_B,MISSING_SRC_A,HIGH,Transaction missing in Core Ledger (Source A)
